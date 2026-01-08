@@ -18,12 +18,13 @@ A modern, mobile-first single-page portfolio website built with HTML, CSS, Vanil
 - Express.js
 
 ## 📁 Project Structure
+
+```text
 portfolio/
 ├── index.js
 ├── portfolio.html
 ├── package.json
 └── README.md
-
 ## ▶️ How to Run
 1. Install dependencies:
 npm install
