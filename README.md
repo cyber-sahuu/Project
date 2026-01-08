@@ -2,6 +2,16 @@
 
 A modern, mobile-first single-page portfolio website built with HTML, CSS, Vanilla JavaScript, and Node.js (Express).
 
+## 🚀 Deployment
+Deploy Anywhere 
+
+| Platform | Deploy |
+|---------|--------|
+| ![Render](https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black) | [![Deploy on Render](https://img.shields.io/badge/DEPLOY_ON_RENDER-000000?style=for-the-badge)](https://render.com) |
+| ![Railway](https://img.shields.io/badge/RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) | [![Deploy on Railway](https://img.shields.io/badge/DEPLOY_ON_RAILWAY-000000?style=for-the-badge)](https://railway.app) |
+| ![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white) | [![Deploy on Vercel](https://img.shields.io/badge/DEPLOY_ON_VERCEL-000000?style=for-the-badge)](https://vercel.com) |
+
+
 ## 🚀 Features
 - Mobile-first responsive design
 - Dark mode by default with automatic light mode
