@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
+  "author": "SHAHADAT SAHU",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
